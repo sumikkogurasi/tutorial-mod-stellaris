@@ -1,0 +1,6 @@
+﻿l_japanese:
+
+ tutmod_civic: "常に探検せよ"
+ tutmod_civic_desc: "この社会は、宇宙時代初期において軍事的拡大よりも科学的探査を優先しました。"
+ tutmod_civic_effects: "$OUTLINER_FLEETS$の代わりに、 $science$と$scientist$を割り当てて開始します。"
+ mod_shipclass_science_ship_build_cost_mult: "調査船建造コスト"
